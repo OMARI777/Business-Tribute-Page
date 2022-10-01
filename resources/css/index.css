@@ -1,0 +1,171 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+ 
+ 
+h1 {
+  color: black;
+  text-align: center;
+  margin: 0 auto;
+  
+
+}
+ 
+body {
+  text-align:  left;
+  text-align: center;
+  margin: 0 auto;
+  background-color: wheat;
+} 
+
+p {
+  align: center;
+  
+}
+
+ 
+a {
+  text-decoration: none;
+}
+
+
+h2 {
+  color: black;
+  font-style: inherit;
+  
+  
+}
+
+h3 {
+  color: black;
+}
+
+
+h4 {
+  color: black;
+}
+
+
+h5 {
+  color: black;
+  
+}
+
+
+.img-cars {
+  width: 800px;
+
+}
+
+body, html {
+  height: 100%;
+}
+
+.img-cars2 {
+  width: 900px;
+  
+}
+
+.img-cars3 {
+  width: 750px; 
+}
+
+.img-cars4 {
+  width: 650px;
+}
+.img-cars5 {
+  width: 800px;
+}
+.Honda-Fit {
+  width: 600px;
+}
+.Honda-Civic {
+  width: 600px;
+}
+.Hyundai-Elantra {
+  width: 600px;
+}
+
+
+.topnav {
+  background-color: yellow;
+  overflow: hidden;;
+  position: sticky;
+  font-style: italic;
+  display: fixed;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  height: 55px;
+  align-items: center;
+
+}
+
+
+.topnav a {
+  float: right;
+  display: block;
+  color: wheat;
+  text-align: center;
+  padding: 18px 19px;
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+
+.topnav a:hover {
+  background-color: wheat;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+.topnav .icon {
+  display: none;
+}
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+    
+
+    
+
+  
+
+  
+
+
+  
+
+
+    
+   
+
+ 
+
+
+
+
+  
+  
